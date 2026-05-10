@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ankurisnoob.aternos.me",
+    "ip": "ankurisnoob.aternos.me:16442",
     "port": 16442,
     "version": "",
     "try-creative": false
